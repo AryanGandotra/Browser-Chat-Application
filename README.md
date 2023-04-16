@@ -1,6 +1,14 @@
 # Browser-Chat-Application
 
-A Real time chat application create using React, JavaScript, and Socket.io.
+A Real time chat application create using React, JavaScript, and Socket.io and Mongo DB.
+
+## Tech Stack
+
+**Client:** React JS
+
+**Server:** Node JS, Express JS
+
+**Database:** Mongo DB
 
 ### Login Page
 
